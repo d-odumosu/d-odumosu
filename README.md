@@ -22,5 +22,58 @@
 
 </div>
 
+<div>
+    <table align="center">
+      <tr>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="20" height="20"/><br /> HTML
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="20" height="20"/><br />
+          CSS
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/><br />
+          JavaScript
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/><br />
+          React.JS
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/><br />
+          Node.JS
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" title="ExpressJS" alt="ExpressJS" width="20" height="20"/><br />
+          Express.JS
+        </td>
+        <td align="center">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="20" height="20"/><br />
+          PostgreSQL
+        </td>
+        <td align="center">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"  alt="Tailwind" width="20" height="20"/><br />
+          Tailwind
+        </td>
+        <td align="center">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" title="DBeaver"  alt="DBeaver" width="20" height="20"/><br />
+            DBeaver
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="20" height="20"/><br />
+            Linux
+        </td>
+        <td align="center">
+              <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="20" height="20"/><br />
+              Postman
+        </td>
+        <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="20" height="20"/><br />
+            Git
+        </td>
+      </tr>
+    </table>
+  </div>
 
 
