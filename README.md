@@ -34,6 +34,10 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL Logo" width="40" height="40"/><br />
       PostgreSQL
     </td>
+    <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="20" height="20"/><br />
+            Git
+        </td>
   </tr>
 </table>
 </div>
