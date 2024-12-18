@@ -30,10 +30,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/><br />
           JavaScript
         </td>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/><br />
-          React.JS
-        </td>
+        
         <td align="center">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/><br />
           Node.JS
