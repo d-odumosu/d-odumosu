@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/dt--odumosu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dt-odumosu/)](https://www.linkedin.com/in/dt-odumosu/)
 
-🤝🏿 Community-inspired cloud engineer.
 
 <hr>
 
